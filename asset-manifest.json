@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cdg-practice-weather/static/css/main.c50de3ca.css",
+    "main.js": "/cdg-practice-weather/static/js/main.223be888.js",
+    "static/media/bg.png": "/cdg-practice-weather/static/media/bg.d18e8af5bac65a98cd80.png",
+    "index.html": "/cdg-practice-weather/index.html",
+    "main.c50de3ca.css.map": "/cdg-practice-weather/static/css/main.c50de3ca.css.map",
+    "main.223be888.js.map": "/cdg-practice-weather/static/js/main.223be888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50de3ca.css",
+    "static/js/main.223be888.js"
+  ]
+}
